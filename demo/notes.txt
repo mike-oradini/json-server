@@ -1,4 +1,15 @@
 https://www.youtube.com/watch?v=IWcUJLUAO2A&ab_channel=TechCode
+
+https://morioh.com/a/f90d61fb4f56/javascript-or-convert-json-string-to-json-object
+
+https://morioh.com/a/dcba78a04c9e/jwt-complete-guide-json-web-tokens-fullstack-nodejs-javascript
+
+https://morioh.com/a/9acdbd845f36/javascript-or-convert-array-to-json-object
+
+https://www.json.org/json-en.html
+
+https://ecma-international.org/publications-and-standards/standards/ecma-404/
+
 JSON (JavaScript Object Notation) is a syntax for data. 
 
 JSON is easier to use than XML and human readable. 
@@ -60,7 +71,9 @@ Within the lessons of this course we will explore
 
 
 
-
+{
+  
+}
 
 
 
