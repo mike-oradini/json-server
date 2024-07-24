@@ -10,6 +10,8 @@ https://www.json.org/json-en.html
 
 https://ecma-international.org/publications-and-standards/standards/ecma-404/
 
+https://jsonlint.com/
+
 JSON (JavaScript Object Notation) is a syntax for data. 
 
 JSON is easier to use than XML and human readable. 
