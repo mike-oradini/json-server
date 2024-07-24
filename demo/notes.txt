@@ -1,1 +1,66 @@
-.
+https://www.youtube.com/watch?v=IWcUJLUAO2A&ab_channel=TechCode
+JSON (JavaScript Object Notation) is a syntax for data. 
+
+JSON is easier to use than XML and human readable. 
+
+Most modern web APIs output data in JSON formats. 
+
+
+It's a lightweight data interchange format that is quickly becoming the default format for data exchange on internet today! 
+
+JSON is lightweight, language independent and easy to read and write. 
+
+JSON is better than XML and more popular!
+
+Within the lessons of this course we will explore
+- JavaScript data types used to hold variables and how they work
+
+
+- JSON and how to write JSON data
+
+
+- How to add values into a JSON object
+
+
+- Accessing JSON data and bringing it into JavaScript
+
+
+
+- JavaScript JSON parse and stringify methods
+
+
+- Adding JSON to local storage
+
+
+- Retrieving back data within JSON formats, updating and working with JSON
+
+
+- Connecting to a web API using fetch
+
+
+- Retrieving JSON data from a web API and outputting the results into your web page
+
+
+- Iterating threw multiple results from an API
+
+
+- Google Spreadsheet data as JSON and how to practice retrieving data
+
+
+- All of the source code and resources are in included
+
+
+- Explore different methods of working with the JSON data stringify and parsing
+
+
+- How JavaScript objects can use Arrays to hold multiple items
+
+
+- How JavaScript arrays work and store data
+
+
+
+
+
+
+
